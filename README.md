@@ -32,14 +32,6 @@ pickle (for model persistence)
 
 API: TMDB API
 
-📂 Project Structure
-movie-recommender/
-│
-├── app.py                     # Main Streamlit application
-├── movie_dict.pkl             # Serialized movie data (id, title, etc.)
-├── similarity.pkl             # Precomputed cosine similarity matrix
-├── requirements.txt           # Dependencies
-└── README.md                  # Project documentation
 
 ⚙️ How It Works
 
